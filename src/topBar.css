@@ -1,0 +1,24 @@
+.topBar {
+  display: flex;
+  background-color: rgb(73, 72, 72);
+  color: whitesmoke;
+  height: 150px;
+}
+.topBarLeft {
+  flex: 8;
+  display: flex;
+  line-height: 10px;
+}
+
+.topBarRight {
+  flex:4 ;
+}
+.topBarRight>p{
+line-height: 15px;
+margin: 6px;
+}
+
+.profileImg{
+  height: 130px;
+  margin:10px ;
+}

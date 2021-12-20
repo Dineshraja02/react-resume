@@ -1,0 +1,23 @@
+.experience{
+  display: flex;
+}
+
+.experienceLeft{
+  flex:3;
+}
+
+.experienceRight{
+  flex:9;
+}
+.companyhead{
+  height: 30px;
+  display: flex;
+}
+h4{
+  height: 3px;
+}
+
+.companyheader{
+  flex: 3;
+}
+

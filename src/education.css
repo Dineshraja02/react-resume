@@ -1,0 +1,25 @@
+.education{
+  display: flex;
+}
+
+.educationLeft{
+  flex:3;
+}
+
+.educationRight{
+  flex:9;
+}
+.educationhead{
+  height: 30px;
+  display: flex;
+}
+h4{
+  height: 3px;
+}
+h5{
+  height: 3px;
+}
+
+.companyheader{
+  flex: 3;
+}

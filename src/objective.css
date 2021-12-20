@@ -1,0 +1,12 @@
+.objective{
+  display: flex;
+  align-items: center;
+}
+
+.objectiveLeft{
+  flex:3;
+}
+
+.objectiveRight{
+  flex:9;
+}
